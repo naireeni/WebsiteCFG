@@ -1,7 +1,34 @@
 
- body{ text-align: center;
- /* background-image: url(./"Information/Nasa Space Travel.jpg"); */
- background-color: black;
-color: white;
-font-family: helvetica;
+ body{
+   text-align: center;
+ background: url('https://fsmedia.imgix.net/e3/65/af/fe/f8db/4252/8dec/c3f9f06d72ee/lifeinspacejpeg.jpeg');
+ /* background-color: blue; */
+/* color: white; */
+/* font-family: helvetica; */
+}
+
+header {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+      text-align: center;
+      /* height:  1000px; */
+        /* width:  1000px; */
+        image-orientation: center;
+        
+      /* background: url('../Information/2.jpg'); */
+    /* border-bottom: 5px solid #222; */
+    /* background-position: center; */
+    /* background-size: ; */
+      /* background-size: cover; */
+      color: white;
+}
+header.masthead hr {
+  margin-top: 30px;
+  /* margin-bottom: 30px; */
+}
+header.masthead h1 {
+  font-size: 2rem;
+}
+header.masthead p {
+  font-weight: 300;
 }
