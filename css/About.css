@@ -1,0 +1,94 @@
+
+ body{
+   text-align: center;
+   background: url('https://fsmedia.imgix.net/e3/65/af/fe/f8db/4252/8dec/c3f9f06d72ee/lifeinspacejpeg.jpeg');
+}
+header {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    text-align: center;
+    image-orientation: center;
+    /* border-bottom: 5px solid #222; */
+    color: black;
+}
+header.masthead {
+  padding-top: 10rem;
+  /* padding-bottom: calc(10rem - 56px); */
+  background-image: url('https://cdn1.medicalnewstoday.com/content/images/articles/319/319971/space-explorer.jpg');
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  border-bottom: 5px solid #222;
+}
+
+
+header.masthead hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  /* color: black; */
+}
+
+header.masthead2 {
+  /* margin-top: 30px; */
+  padding-top: 10rem;
+  /* padding-bottom: calc(10rem - 56px); */
+  background-image: url("https://cdn.zmescience.com/wp-content/uploads/2018/02/T1_Planet_Lineup_2018_NASA_JPL_Caltech_ger.jpg");
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  border-bottom: 5px solid #222;
+}
+article.masthead3{
+  /* margin-top: 300px; */
+  /* padding-top: 10rem; */
+  color: white;
+  text-align: center;
+  background-image: url("https://static-ssl.businessinsider.com/image/5a981988aae6052b008b46ac-2400/buck-full-moon.jpg");
+  opacity: 0.8;
+  padding-top: 10rem;
+  background-repeat: no-repeat;
+  /* padding-bottom: calc(10rem - 56px); */
+  /* background-image: url("https://cdn.zmescience.com/wp-content/uploads/2018/02/T1_Planet_Lineup_2018_NASA_JPL_Caltech_ger.jpg"); */
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+
+  -o-background-size: cover;
+  background-size: cover;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+  .fancy {
+    color: white;
+    text-shadow:2px 2px #000000;
+    text-align: center;
+    font-weight: bold;
+    background-image: url("https://static-ssl.businessinsider.com/image/5a981988aae6052b008b46ac-2400/buck-full-moon.jpg");
+    opacity: 0.8;
+    /* padding-top: 10rem; */
+    background-repeat: no-repeat;
+  width: 70%;
+  margin: 200px auto;
+  padding: 50px;
+  border-width: 10px;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+}
+/* @media screen and (max-width: 980px)
+.box {
+    padding: 3em;
+  } */
+
+/* https://static-ssl.businessinsider.com/image/5a981988aae6052b008b46ac-2400/buck-full-moon.jpg */
